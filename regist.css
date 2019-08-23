@@ -1,0 +1,57 @@
+
+
+.container-fluid{
+    background: lightblue;
+    border-radius: 2ex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+input.year{
+        width:93px;
+        height: 28px;
+
+}
+
+select.ol{
+width:227px;
+
+}
+
+fieldset{
+    margin: 20px;
+    widows: 600px;
+}
+
+.sex{
+    display: flex;
+}
+
+.sex p{
+    padding: 0 20px 0 20px;
+}
+
+input{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+
+    input[type=checkbox] {
+        width: 30px;
+        height: 30px;
+        vertical-align: middle;
+    }
+.bs{
+    background:lightblue;
+}
+label{
+    font-size: 24px;
+}
+
+.ls{
+    background: lightskyblue
+}
+

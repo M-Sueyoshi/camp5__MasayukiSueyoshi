@@ -1,0 +1,41 @@
+body{
+    width:100%;
+    padding: 0 auto;
+}
+
+.container-fluid{
+    background: lightblue;
+    border-radius: 2ex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.container jumbotron{
+   object-position: center; 
+   widows: 100%;
+}
+
+
+.hyou{
+    width:50%;
+
+}
+
+table{
+    margin: 50px;
+    padding: auto;
+    width: 100%;
+    table-layout: fixed;
+}
+
+
+table td{
+    text-align: left;
+    border:solid 1px; border-collapse: collapse;
+    word-break: break-all;
+    overflow-wrap : break-word;
+}
+
+div{
+    width: 100%;
+}
